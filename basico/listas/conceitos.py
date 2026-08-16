@@ -106,3 +106,8 @@ print(produtos_eletronicos)
 
 for produto in produtos_eletronicos:
     print(produto)
+
+# O for each é muito interessante, pois ele cria uma variavel que recebe cada produto da lista
+# produto = todos objetos da lista
+
+

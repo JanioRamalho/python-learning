@@ -6,11 +6,7 @@ count()
 sort()
 reverse()
 extend()
-min()
-max()
-sum()
-listas + condicionais
-listas + loops'''
+'''
 
 
 produtos_eletronicos = [
