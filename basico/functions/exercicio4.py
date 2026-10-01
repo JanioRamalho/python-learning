@@ -1,6 +1,6 @@
 '''
 Queremos criar uma function que consiga identificar os vendeores que bateram uma meta, mas além disso, consiga
-já me dar como resposta o cálculo do % da lista de vendedores que bateu a meta( para eu não precisa calcular
+já me dar como   resposta o cálculo do % da lista de vendedores que bateu a meta( para eu não precisa calcular
 manualmente depois)
 
 Essa function deve receber 2 informações como parâmetro: a meta e um dicionário com os vendedores e suas vendas.
